@@ -7,7 +7,7 @@ package newproject;
 
 /**
  *
- * @author Ludde
+ * @author Jocke
  */
 public class NewProject {
 
